@@ -7,7 +7,7 @@ first_name: Harsit
 last_name: Upadhya
 
 # Role/position/tagline
-role: MS in Computer Science Candidate
+role: MS in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -17,12 +17,12 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:harsitkupadhya@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: 'https://github.com/your-github-username'
+    url: 'https://github.com/harsit14'
   - icon: brands/linkedin
-    url: 'https://www.linkedin.com/in/your-linkedin-profile/'
+    url: 'https://www.linkedin.com/in/harsit-upadhya'
 
 # Is this the primary user of the site?
 superuser: true
